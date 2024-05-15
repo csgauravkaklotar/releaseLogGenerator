@@ -1,0 +1,14 @@
+﻿{
+  "PeregrineManagementAgent": {
+    "updatePath": "Updates/Peregrine/PeregrineManagementSuiteUpdates"
+  },
+  "PeregrineMetricbeat": {
+    "updatePath": "Updates/Peregrine/PeregrineMetricbeatUpdates"
+  },
+  "PeregrineAlert": {
+    "updatePath": "Updates/Peregrine/PeregrineAlertUpdates"
+  },
+  "ManagementSuite": {
+    "updatePath": "Updates/Peregrine/PeregrineManagementSuiteUpdates"
+  }
+}
